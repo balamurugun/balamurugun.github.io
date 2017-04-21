@@ -5,6 +5,7 @@ textcolor: white
 author: Balamurugan
 ---
 
+Appa
 1) git remote show origin
 2) git init - Initialize a git repository
 3) git status - current state
