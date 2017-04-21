@@ -5,9 +5,8 @@ textcolor: white
 author: Balamurugan
 ---
 
-# Github basics
 
-My first post to test the dog food and here are the series of git commands used
+My first post to test the dog food and here are the series of git commands I used for this post:
 
 1. git clone URL
 2. git add *
@@ -17,7 +16,7 @@ My first post to test the dog food and here are the series of git commands used
 
 Next How to automate this chain of commands?
 
-## HT: 
-1.[https://github.com/ktrajasekar/EmberJS]
-2.[https://try.github.io]
-3.[https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html]
+##### HT: 
+1. [https://github.com/ktrajasekar/EmberJS]
+2. [https://try.github.io]
+3. [https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html]
