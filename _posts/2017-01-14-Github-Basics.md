@@ -7,7 +7,7 @@ author: Balamurugan
 
 # Github basics
 
-My first post to test the dog food and here are the series og git commands used
+My first post to test the dog food and here are the series of git commands used
 
 1. git clone URL
 2. git add *
